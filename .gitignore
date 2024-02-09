@@ -1,0 +1,7 @@
+Vagrantfile
+.bash_history
+.cache.mk
+build/
+.vscode/
+.Vagrant/
+.cache
